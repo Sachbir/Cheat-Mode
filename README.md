@@ -10,4 +10,4 @@ This 'soft mod' offered a few advantages over traditional mods:
 2) It can be loaded server-side without others needing to load it on their clients first
 3) It relied heavily on in-game assets, making processing more efficient overall
 
-While there were many things that were lacking (eg. an infinite fluid source), it was a fun project and was a fun project when I was just starting to program. 
+While there were many things that were lacking (eg. an infinite fluid source), it was a fun project and quite a challenge when I was just starting to program. 
